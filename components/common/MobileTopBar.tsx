@@ -16,7 +16,7 @@ export default function MobileTopBar() {
   const navItems: { title: string; href: string }[] = [
     { title: "Projects", href: "/projects" },
     // Conditionally add the "Experience" nav item
-    { title: "Hire Me", href: "mailto:fiyinfoluwasamuel580@gmail.com" },
+    { title: "Hire Me", href: "mailto:feranmioyelowo@gmail.com" },
   ];
 
   const navComp = (

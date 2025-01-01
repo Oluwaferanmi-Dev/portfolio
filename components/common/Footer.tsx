@@ -45,7 +45,7 @@ export default function Footer() {
         <Logo />
         <div className="text-[#61616E] dark:text-[#545460]">
           <span className="mr-3">
-            &copy; <span className="text-[#BFBFC6]">Samuel Adekunle</span>
+            &copy; <span className="text-[#BFBFC6]">Oluwaferanmi Oyelowo</span>
           </span>
           {date}
         </div>

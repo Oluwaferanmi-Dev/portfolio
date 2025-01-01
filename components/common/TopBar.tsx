@@ -14,7 +14,7 @@ export default function TopBar() {
   // Define an array of navigation items
   const navItems: { title: string; href: string }[] = [
     { title: "Projects", href: "/projects" },
-    { title: "Hire Me", href: "mailto:fiyinfoluwasamuel580@gmail.com" },
+    { title: "Hire Me", href: "mailto:feranmioyelowo@gmail.com" },
   ];
 
   return (
