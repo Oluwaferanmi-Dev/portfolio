@@ -1,11 +1,11 @@
 export const expereince = [
   {
     title: "Frontend Engineer",
-    company_name: "Tizela",
-    period: "Oct 2024 - Present",
+    company_name: "Knfrmd web corp",
+    period: "Feb 2023 - Present",
     description:
-      "Tasked with  building the user interface for the company's upcoming project, I took a lead role in shaping user, host, and admin areas, with a strong emphasis on the admin dashboard. My contributions included developing robust authentication integration, enhancing security protocols, and implementing intuitive tools for content management and analytics. These features streamlined workflows for internal teams, improving accessibility and efficiency across the board. This work laid the foundation for a seamless, secure experience for both end-users and administrators, supporting the project's scalability and long-term success.",
-    location: "Remote, Nigeria",
+      "As a Frontend Web Developer at Knfrmd Web Corp., I bring my expertise in React, Next.js, TypeScript and my commitment to user-friendly design to the table.  Our team is dedicated to pushing the envelope in web development, ensuring seamless experiences across devices. With a skill set centered around front-end technologies and a passion for continuous learning, I am driven to contribute to projects that enhance productivity and user engagement. ",
+    location: "Remote, Canada",
   },
   {
     title: "Web Developer",
@@ -49,31 +49,22 @@ export const expereince = [
   },
 ];
 
-export const education = [
-  {
-    school: "Babcock Unversity",
-    degree: "Bachelor's Degree in Computer Science (4.16 CGPA btw)",
-    period: "Sept 2020 - July 2024",
-    location: "Ilishan-Remo, Nigeria",
-  },
-];
-
 export const socialLinks = [
   {
     name: "GitHub",
-    link: "https://github.com/try-",
+    link: "https://github.com/Oluwaferanmi-Dev",
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/-Oluwaferanmi-a995a8213/",
+    link: "https://ng.linkedin.com/in/feranmi-oyelowo",
   },
   {
-    name: "X",
-    link: "https://x.com/weird_l",
+    name: "https://x.com/feranmi_sys?s=21X",
+    link: "",
   },
   {
     name: "Email",
-    link: "mailto:oyelowo580@gmail.com",
+    link: "mailto:feranmioyelowo@gmail.com",
   },
 ];
 
