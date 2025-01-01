@@ -11,7 +11,7 @@ import TopBar from "@/components/common/TopBar";
 import HeroSlider from "@/components/ui/hero-slider";
 import MobileHeroSlider from "@/components/ui/hero-slider-mobile";
 import useIsMobile from "@/hooks/useIsMobile";
-import { education, expereince, skills } from "@/lib/data";
+import {expereince, skills } from "@/lib/data";
 import { useEffect } from "react";
 
 export default function Home() {
@@ -53,7 +53,6 @@ export default function Home() {
       </div>
       <section className="container">
         <Experiences experiences={expereince} />
-        <Education educations={education} />
         {/* <Skills skills={skills} /> */}
         <Footer />
       </section>
