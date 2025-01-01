@@ -8,19 +8,19 @@ export const metadata: Metadata = {
   verification: {
     google: "LoPQr96cfszDq0ETtZIr5zkfxpAGEK4XV-cbkzNfUpQ",
   },
-  title: "Adekunle Samuel Fiyinfoluwa",
+  title: " Oluwaferanmi oyelowo",
   description:
     "Software Engineer, Full Stack Web Developer, and Open Source Enthusiast",
   keywords: [
     "samuel",
-    "Adekunle Samuel",
-    "Adekunle Samuel Fiyinfoluwa",
-    "adekunle fiyinfoluwa",
+    "Oluwaferanmi oyelowo",
+    "Oluwaferanmi oyelowo Fiyinfoluwa",
+    "Oluwaferanmi fiyinfoluwa",
     "Fiyinfoluwa",
     "SamuelFiyinfoluwa",
-    "Adekunle Fiyinfoluwa",
-    "Samuel Adekunle",
-    "FiyinfoluwaSamuel Adekunle",
+    "Oluwaferanmi Fiyinfoluwa",
+    "Samuel Oluwaferanmi",
+    "FiyinfoluwaSamuel Oluwaferanmi",
     "Full Stack Developer",
     "Software Engineer",
     "Open Source Enthusiast",
@@ -28,21 +28,21 @@ export const metadata: Metadata = {
   robots: "index, follow",
   authors: [
     {
-      name: "Adekunle Samuel Fiyinfoluwa",
-      url: "https://adekunlesamuel.me",
+      name: "Oluwaferanmi oyelowo Fiyinfoluwa",
+      url: "https://Oluwaferanmisamuel.me",
     },
   ],
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://adekunlesamuel.me",
+    url: "https://Oluwaferanmisamuel.me",
     description: "This is my portfolio website guys, check it out!",
     images: [
       {
         url: "https://i.pinimg.com/564x/7a/1c/1e/7a1c1e8ad44aa5a822d3668f8e60ce25.jpg",
         width: 459,
         height: 820,
-        alt: "Samuel Adekunle",
+        alt: "Samuel Oluwaferanmi",
       },
     ],
   },

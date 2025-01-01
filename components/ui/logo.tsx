@@ -7,7 +7,7 @@ export default function Logo() {
       onClick={() => window.scrollTo(0, 0)}
     >
       <div className="w-[20px] h-[2px] bg-[#61616E]"></div>
-      <h1>Adekunle</h1>
+      <h1>Oluwaferanmi</h1>
     </div>
   );
 }

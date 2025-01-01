@@ -65,7 +65,7 @@ export const socialLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/samuel-adekunle-a995a8213/",
+    link: "https://www.linkedin.com/in/samuel-Oluwaferanmi-a995a8213/",
   },
   {
     name: "X",
@@ -105,7 +105,7 @@ export const projects = [
     title: "My Portfolio",
     description:
       "A personal portfolio website showcasing my projects, skills, and experiences.",
-    link: "https://adekunlesamuel.me",
+    link: "https://Oluwaferanmisamuel.me",
     technologies: ["TypeScript", "Next.js", "TailwindCSS"],
     type: "live",
   },
