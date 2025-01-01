@@ -73,7 +73,7 @@ export const socialLinks = [
   },
   {
     name: "Email",
-    link: "mailto:fiyinfoluwasamuel580@gmail.com",
+    link: "mailto:oyelowosamuel580@gmail.com",
   },
 ];
 

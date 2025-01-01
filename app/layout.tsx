@@ -14,13 +14,13 @@ export const metadata: Metadata = {
   keywords: [
     "samuel",
     "Oluwaferanmi oyelowo",
-    "Oluwaferanmi oyelowo Fiyinfoluwa",
-    "Oluwaferanmi fiyinfoluwa",
-    "Fiyinfoluwa",
-    "SamuelFiyinfoluwa",
-    "Oluwaferanmi Fiyinfoluwa",
+    "Oluwaferanmi oyelowo oyelowo",
+    "Oluwaferanmi oyelowo",
+    "oyelowo",
+    "Samueloyelowo",
+    "Oluwaferanmi oyelowo",
     "Samuel Oluwaferanmi",
-    "FiyinfoluwaSamuel Oluwaferanmi",
+    "oyelowoSamuel Oluwaferanmi",
     "Full Stack Developer",
     "Software Engineer",
     "Open Source Enthusiast",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   robots: "index, follow",
   authors: [
     {
-      name: "Oluwaferanmi oyelowo Fiyinfoluwa",
+      name: "Oluwaferanmi oyelowo oyelowo",
       url: "https://Oluwaferanmisamuel.me",
     },
   ],
