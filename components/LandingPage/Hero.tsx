@@ -10,7 +10,7 @@ export default function Hero() {
         data-aos-easing="ease-out-cubic"
         data-aos-duration="2000"
       >
-        Hello! I'm Samuel.
+        Hello! I'm Oluwaferanmi.
       </h1>
       <h2
         className={`font-medium text-5xl md:text-[55px] lg:text-[89px] leading-snug lg:leading-[111px] mb-5`}
