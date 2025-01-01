@@ -12,15 +12,15 @@ export const metadata: Metadata = {
   description:
     "Software Engineer, Full Stack Web Developer, and Open Source Enthusiast",
   keywords: [
-    "samuel",
+    "",
     "Oluwaferanmi oyelowo",
     "Oluwaferanmi oyelowo oyelowo",
     "Oluwaferanmi oyelowo",
     "oyelowo",
-    "Samueloyelowo",
+    "oyelowo",
     "Oluwaferanmi oyelowo",
-    "Samuel Oluwaferanmi",
-    "oyelowoSamuel Oluwaferanmi",
+    " Oluwaferanmi",
+    "oyelowo Oluwaferanmi",
     "Full Stack Developer",
     "Software Engineer",
     "Open Source Enthusiast",
@@ -29,20 +29,20 @@ export const metadata: Metadata = {
   authors: [
     {
       name: "Oluwaferanmi oyelowo oyelowo",
-      url: "https://Oluwaferanmisamuel.me",
+      url: "https://Oluwaferanmi.me",
     },
   ],
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://Oluwaferanmisamuel.me",
+    url: "https://Oluwaferanmi.me",
     description: "This is my portfolio website guys, check it out!",
     images: [
       {
         url: "https://i.pinimg.com/564x/7a/1c/1e/7a1c1e8ad44aa5a822d3668f8e60ce25.jpg",
         width: 459,
         height: 820,
-        alt: "Samuel Oluwaferanmi",
+        alt: " Oluwaferanmi",
       },
     ],
   },

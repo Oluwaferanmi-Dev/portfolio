@@ -13,7 +13,7 @@ export default function Footer() {
   return (
     <section className="space-y-10 my-10 mt-20">
       <Link
-        href={"mailto:fiyinfoluasamuel580@gmail.com"}
+        href={"mailto:feranmioyelowo@gmail.com"}
         target="_blank"
         className="grid grid-cols-1 lg:grid-cols-2 gap-10 w-1/2 lg:w-full"
         data-aos="fade-down"

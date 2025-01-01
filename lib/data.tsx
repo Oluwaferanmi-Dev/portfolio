@@ -61,19 +61,19 @@ export const education = [
 export const socialLinks = [
   {
     name: "GitHub",
-    link: "https://github.com/try-samuel",
+    link: "https://github.com/try-",
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/samuel-Oluwaferanmi-a995a8213/",
+    link: "https://www.linkedin.com/in/-Oluwaferanmi-a995a8213/",
   },
   {
     name: "X",
-    link: "https://x.com/weird_samuell",
+    link: "https://x.com/weird_l",
   },
   {
     name: "Email",
-    link: "mailto:oyelowosamuel580@gmail.com",
+    link: "mailto:oyelowo580@gmail.com",
   },
 ];
 
@@ -105,7 +105,7 @@ export const projects = [
     title: "My Portfolio",
     description:
       "A personal portfolio website showcasing my projects, skills, and experiences.",
-    link: "https://Oluwaferanmisamuel.me",
+    link: "https://Oluwaferanmi.me",
     technologies: ["TypeScript", "Next.js", "TailwindCSS"],
     type: "live",
   },
@@ -135,7 +135,7 @@ export const projects = [
   {
     title: "QuickChat",
     description: "A real-time chat application.",
-    link: "https://github.com/try-samuel/QuickChat",
+    link: "https://github.com/try-/QuickChat",
     technologies: ["JavaScript", "Node.js", "React", "axios", "..."],
     type: "",
   },
@@ -143,7 +143,7 @@ export const projects = [
     title: "E-commerce-frontend",
     description:
       "A frontend for an e-commerce website built with React.js, to learn.",
-    link: "https://github.com/try-samuel/E-commerce-frontend",
+    link: "https://github.com/try-/E-commerce-frontend",
     technologies: ["JavaScript", "React", "axios", "..."],
     type: "",
   },
@@ -157,7 +157,7 @@ export const projects = [
   {
     title: "Aporvis-Server",
     description: "Backend for final year project at Babcock University",
-    link: "https://github.com/try-samuel/Aporvis-Server",
+    link: "https://github.com/try-/Aporvis-Server",
     technologies: ["TypeScript", "Node.js", "Express", "MongoDB", "..."],
     type: "",
   },
