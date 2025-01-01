@@ -13,6 +13,8 @@ import MobileHeroSlider from "@/components/ui/hero-slider-mobile";
 import useIsMobile from "@/hooks/useIsMobile";
 import {expereince, skills } from "@/lib/data";
 import { useEffect } from "react";
+import { SpeedInsights } from "@vercel/speed-insights/next"
+import { Analytics } from "@vercel/analytics/react"
 
 export default function Home() {
   const isMobile = useIsMobile(); // Check if the user is on a mobile device
