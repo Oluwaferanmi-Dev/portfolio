@@ -59,8 +59,8 @@ export const socialLinks = [
     link: "https://ng.linkedin.com/in/feranmi-oyelowo",
   },
   {
-    name: "https://x.com/feranmi_sys?s=21X",
-    link: "",
+    name: "x",
+    link: "https://x.com/feranmi_sys?s=21",
   },
   {
     name: "Email",
