@@ -138,20 +138,7 @@ export const projects = [
     technologies: ["JavaScript", "React", "axios", "..."],
     type: "",
   },
-  {
-    title: "Aporvis-Client",
-    description: "Frontend for final year project at Babcock University",
-    link: "https://aporvs-client.vercel.app/",
-    technologies: ["JavaScript", "React", "TailwindCSS", "axios", "..."],
-    type: "live",
-  },
-  {
-    title: "Aporvis-Server",
-    description: "Backend for final year project at Babcock University",
-    link: "https://github.com/try-/Aporvis-Server",
-    technologies: ["TypeScript", "Node.js", "Express", "MongoDB", "..."],
-    type: "",
-  },
+  
   {
     title: "NerfedFlix",
     description:
